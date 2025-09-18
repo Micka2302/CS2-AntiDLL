@@ -3,7 +3,7 @@
 This plugin is similar to the CS:GO version.
 
 > [!NOTE]  
-> Required CSSharp version: **303**
+> Required CSSharp version: **305**
 
 # API
 
