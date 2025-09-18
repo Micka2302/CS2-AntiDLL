@@ -3,7 +3,7 @@
     using CounterStrikeSharp.API.Core;
     using CounterStrikeSharp.API.Core.Attributes;
 
-    [MinimumApiVersion(version: 303)]
+    [MinimumApiVersion(version: 305)]
     public sealed partial class Plugin : BasePlugin
     {
         public override string ModuleName => "CS2 AntiDLL";
